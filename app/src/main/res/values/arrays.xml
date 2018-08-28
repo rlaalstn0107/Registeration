@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>컴퓨터소프트웨어공학과</item>
+        <item>정보처리학과</item>
+        <item>컴퓨터생명융합과</item>
+        <item>모바일소프트웨어공학과</item>
+        <item>빅데이터학과</item>
+        <item>가정교육과</item>
+        <item>그렇습니꽈</item>
+        <item>다른과</item>
+        <item>없습니과</item>
+        <item>괴찮습니과</item>
+
+
+    </string-array>
+</resources>
